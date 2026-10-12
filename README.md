@@ -37,6 +37,15 @@ Learning programming (Python and C) step by step.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
+<br>
+
+### GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ALRayed446&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALRayed446&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+</div>
+
 <br><br>
 
 ---
