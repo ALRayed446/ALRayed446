@@ -1,9 +1,7 @@
 <div align="center">
   
-  <!-- You can add a simple banner later if you want -->
-  
   <h1>AL Rayed</h1>
-  <p>Intermediate 2nd year student</p>
+  <p>Intermediate 2nd Year Science Student</p>
   <p>Interested in <strong>Physics</strong> and <strong>Mathematics</strong>. Currently learning <strong>Python</strong> and <strong>C</strong>.</p>
 
   <p>
@@ -59,8 +57,8 @@
 <div align="center">
   <h3>বাংলা</h3>
   <p>
-    <strong>এল রায়েদ</strong><br>
-    ইন্টারমিডিয়েট ২য় বর্ষের শিক্ষার্থী<br><br>
+    <strong>আল রায়েদ</strong><br>
+    ইন্টারমিডিয়েট ২য় বর্ষের বিজ্ঞান বিভাগের শিক্ষার্থী<br><br>
     পদার্থবিজ্ঞান ও গণিতে আগ্রহী।<br>
     বর্তমানে পাইথন এবং সি শিখছি।
   </p>
