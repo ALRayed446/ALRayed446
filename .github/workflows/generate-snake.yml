@@ -18,7 +18,7 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ALRayed446
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
