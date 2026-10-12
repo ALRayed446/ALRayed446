@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <sub>Understand the idea &nbsp;·&nbsp; Derive the result &nbsp;·&nbsp; Test it with code</sub>
+  <sub>Understand the idea · Derive the result · Test it with code</sub>
 </p>
 
 ---
@@ -19,15 +19,15 @@
 ### Right now
 
 - Solving **Project Euler** problems in Python.
-- Learning the **Git and GitHub** workflow: branches, merges, remotes.
-- Next: small **numerical simulations** in plain Python (free fall, pendulum), checked against exact results.
+- Learning the **Git and GitHub** workflow: branches, merges, and remotes.
+- Exploring small **numerical simulations** in Python, checked against exact results where possible.
 
 ### Selected work
 
 | Project | What it shows |
 |---|---|
-| [Encrypted Chat](https://github.com/ALRayed446/encrypted_chat) | Browser-side encryption with real-time data on Firebase. Experimental prototype: not security-audited, not for sensitive communication. |
-| [Python Problem-Solving Notes](https://github.com/ALRayed446/Python-Problem-solve-note) | Project Euler solutions in Python, with a README and commit history. |
+| [Encrypted Chat](https://github.com/ALRayed446/encrypted_chat) | Browser-side encryption with real-time Firebase data. Experimental prototype: not security-audited, not for sensitive communication. |
+| [Python Problem-Solving Notes](https://github.com/ALRayed446/Python-Problem-solve-note) | Project Euler solutions in Python, with explanations and commit history. |
 
 <p align="center">
   <sub>আল রায়েদ · ইন্টারমিডিয়েট ২য় বর্ষ · বিজ্ঞান বিভাগ</sub>
