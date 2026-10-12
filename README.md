@@ -1,21 +1,18 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/ALRayed446?tab=repositories">
+    <img alt="Al Rayed: physics, mathematics and code" width="880" src="assets/hero-terminal.svg" />
+  </a>
+</p>
 
-<img src="assets/banner.svg" alt="Al Rayed: physics, mathematics and code" width="100%" />
+<p align="center">
+  <a href="https://github.com/ALRayed446"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-12173d?style=flat-square&logo=github&logoColor=ffc857" /></a>
+  <a href="https://www.linkedin.com/in/al-rayed-ab8846328"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-12173d?style=flat-square&logo=linkedin&logoColor=5ad1ff" /></a>
+  <a href="https://www.codechef.com/users/wise_wisp_92"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-12173d?style=flat-square&logo=codechef&logoColor=a58bff" /></a>
+</p>
 
-**Obsessed with physics, mathematics and code.**<br />
-Building the foundations to understand problems, derive results and test ideas with simulations.
-
-<br />
-
-<img src="assets/pillars.svg" alt="Physics: theory is the goal. Mathematics: derive, don't memorise. Code: test ideas by simulation." width="100%" />
-
-<br />
-
-[LinkedIn](https://www.linkedin.com/in/al-rayed-ab8846328) &nbsp;·&nbsp;
-[CodeChef](https://www.codechef.com/users/wise_wisp_92) &nbsp;·&nbsp;
-[Repositories](https://github.com/ALRayed446?tab=repositories)
-
-</div>
+<p align="center">
+  <sub>Understand the idea &nbsp;·&nbsp; Derive the result &nbsp;·&nbsp; Test it with code</sub>
+</p>
 
 ---
 
@@ -25,9 +22,6 @@ Building the foundations to understand problems, derive results and test ideas w
 - Learning the **Git and GitHub** workflow: branches, merges, remotes.
 - Next: small **numerical simulations** in plain Python (free fall, pendulum), checked against exact results.
 
-**Working with:** Python · Git & GitHub · Linux command line  
-**Learning:** C · LaTeX · numerical methods
-
 ### Selected work
 
 | Project | What it shows |
@@ -35,9 +29,6 @@ Building the foundations to understand problems, derive results and test ideas w
 | [Encrypted Chat](https://github.com/ALRayed446/encrypted_chat) | Browser-side encryption with real-time data on Firebase. Experimental prototype: not security-audited, not for sensitive communication. |
 | [Python Problem-Solving Notes](https://github.com/ALRayed446/Python-Problem-solve-note) | Project Euler solutions in Python, with a README and commit history. |
 
-<div align="center">
-
-<sub>Understand the idea · Derive the result · Test it with code</sub><br />
-<sub>আল রায়েদ · ইন্টারমিডিয়েট ২য় বর্ষ · বিজ্ঞান বিভাগ</sub>
-
-</div>
+<p align="center">
+  <sub>আল রায়েদ · ইন্টারমিডিয়েট ২য় বর্ষ · বিজ্ঞান বিভাগ</sub>
+</p>
