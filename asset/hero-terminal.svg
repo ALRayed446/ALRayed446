@@ -1,1 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 390" width="880" height="390" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest"><title id="t">Al Rayed: physics, mathematics and code</title>
+  <desc id="d">An animated terminal types: whoami, al rayed; cat about.txt, physics mathematics code; working with python, git, linux; learning C, latex, numerical methods; goal problem solver.</desc>
+  <defs><clipPath id="win"><rect width="880" height="390" rx="18"/></clipPath></defs>
+  <style>
+    .m { font-family: 'JetBrains Mono','Fira Code','SF Mono',ui-monospace,Menlo,Consolas,'DejaVu Sans Mono','Courier New',monospace; font-size: 22px; }
+    .b { font-family: 'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif; font-size: 14px; }
+    .cur { will-change: transform; }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes t0{0%,2.78%{transform:translateX(0);animation-timing-function:steps(8,end)}5.89%,94%{transform:translateX(140px)}95%,100%{transform:translateX(0)}} @keyframes t1{0%,7.78%{transform:translateX(0);animation-timing-function:steps(8,end)}10.89%,94%{transform:translateX(140px)}95%,100%{transform:translateX(0)}} @keyframes t2{0%,12.78%{transform:translateX(0);animation-timing-function:steps(15,end)}18.61%,94%{transform:translateX(237px)}95%,100%{transform:translateX(0)}} @keyframes t3{0%,20.56%{transform:translateX(0);animation-timing-function:steps(28,end)}28.33%,94%{transform:translateX(416px)}95%,100%{transform:translateX(0)}} @keyframes t4{0%,30.00%{transform:translateX(0);animation-timing-function:steps(30,end)}38.33%,94%{transform:translateX(444px)}95%,100%{transform:translateX(0)}} @keyframes t5{0%,40.00%{transform:translateX(0);animation-timing-function:steps(39,end)}50.83%,94%{transform:translateX(568px)}95%,100%{transform:translateX(0)}} @keyframes t6{0%,52.78%{transform:translateX(0);animation-timing-function:steps(14,end)}61.39%,94%{transform:translateX(322px)}95%,100%{transform:translateX(0)}}61.39%,94%{transform:translateX(458px)}95%,100%{transform:translateX(0)}} @keyframes t7{0%,63.33%{transform:translateX(0);animation-timing-function:steps(2,end)}65.00%,94%{transform:translateX(58px)}95%,100%{transform:translateX(0)}}
+    @media (prefers-reduced-motion: reduce) { .cur { display: none; } .caret { animation: none; } }
+  </style>
+  <g clip-path="url(#win)">
+    <rect width="880" height="390" fill="#0d1030"/>
+    <rect width="880" height="46" fill="#151a45"/>
+    <circle cx="30" cy="23" r="6.5" fill="#5ad1ff"/>
+    <circle cx="54" cy="23" r="6.5" fill="#a58bff"/>
+    <circle cx="78" cy="23" r="6.5" fill="#ffc857"/>
+    <text class="b" x="440" y="28" text-anchor="middle" fill="#7f87b8">~/al-rayed</text>
 
+    <text class="m" x="36" y="96"><tspan fill="#5ad1ff">$ </tspan><tspan fill="#eef1ff">whoami</tspan></text>
+    <text class="m" x="36" y="132" fill="#eef1ff" font-weight="700">al rayed</text>
+    <text class="m" x="36" y="168"><tspan fill="#5ad1ff">$ </tspan><tspan fill="#eef1ff">cat about.txt</tspan></text>
+    <text class="m" x="36" y="204"><tspan fill="#5ad1ff">physics</tspan><tspan fill="#7f87b8"> &#183; </tspan><tspan fill="#a58bff">mathematics</tspan><tspan fill="#7f87b8"> &#183; </tspan><tspan fill="#ffc857">code</tspan></text>
+    <text class="m" x="36" y="240"><tspan fill="#7f87b8">working</tspan><tspan x="170" fill="#eef1ff">python &#183; git &#183; linux</tspan></text>
+    <text class="m" x="36" y="276"><tspan fill="#7f87b8">learning</tspan><tspan x="170" fill="#eef1ff">C &#183; latex &#183; numerical methods</tspan></text>
+    <text class="m" x="36" y="312"><tspan fill="#7f87b8">goal</tspan><tspan x="170" fill="#eef1ff">problem solver</tspan></text>
+    <text class="m" x="36" y="348" fill="#5ad1ff">$ </text>
+    <rect class="caret" x="64" y="328" width="12" height="24" fill="#5ad1ff"/>
+
+    <rect class="cur" x="32" y="69" width="140" height="35" fill="#0d1030" style="animation:t0 18.0s linear infinite"/>
+    <rect class="cur" x="32" y="105" width="140" height="35" fill="#0d1030" style="animation:t1 18.0s linear infinite"/>
+    <rect class="cur" x="32" y="141" width="237" height="35" fill="#0d1030" style="animation:t2 18.0s linear infinite"/>
+    <rect class="cur" x="32" y="177" width="416" height="35" fill="#0d1030" style="animation:t3 18.0s linear infinite"/>
+    <rect class="cur" x="32" y="213" width="444" height="35" fill="#0d1030" style="animation:t4 18.0s linear infinite"/>
+    <rect class="cur" x="32" y="249" width="568" height="35" fill="#0d1030" style="animation:t5 18.0s linear infinite"/>
+    <rect class="cur" x="32" y="285" width="330" height="35" fill="#0d1030" style="animation:t6 18.0s linear infinite"/>
+    <rect class="cur" x="32" y="321" width="58" height="35" fill="#0d1030" style="animation:t7 18.0s linear infinite"/>
+  </g>
+  <rect x="1" y="1" width="878" height="388" rx="17" fill="none" stroke="#2a3180" stroke-width="1.5"/>
+</svg>
