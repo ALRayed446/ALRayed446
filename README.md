@@ -1,58 +1,89 @@
-<div align="center">
-  <h1>AL Rayed</h1>
-  <h3>Intermediate 2nd Year Science Student</h3>
-  <p>
-    Interested in <b>Physics</b> and <b>Mathematics</b><br>
-    Currently learning <b>Python</b> and <b>C</b>
-  </p>
+<!-- Save the banner at assets/rayed-github-banner.png in your profile repository. -->
+<p align="center">
+  <img
+    src="assets/rayed-github-banner.png"
+    alt="AL Rayed | Physics, Mathematics and Code"
+    width="100%"
+  />
+</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/al-rayed-ab8846328">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    &nbsp;
-    <a href="https://www.codechef.com/users/wise_wisp_92">
-      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/al-rayed-ab8846328">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d0e12?style=flat-square&logo=linkedin&logoColor=7aa2ff" />
+  </a>
+  <a href="https://www.codechef.com/users/wise_wisp_92">
+    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-0d0e12?style=flat-square&logo=codechef&logoColor=7aa2ff" />
+  </a>
+  <a href="https://github.com/ALRayed446">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=7aa2ff" />
+  </a>
+</p>
 
-<br>
+<h1 align="center">AL Rayed</h1>
+<p align="center">
+  <strong>Science Student · Aspiring Theoretical Physicist · Student Developer</strong>
+  <br />
+  Physics · Mathematics · Python · C
+</p>
 
-### About
-Science student with interest in Physics and Mathematics.  
-Learning programming (Python and C) step by step.
-
-<br>
-
-### Currently Learning
-`Physics` &nbsp; `Mathematics` &nbsp; `Python` &nbsp; `C` &nbsp; `Git` &nbsp; `GitHub`
-
-<br>
-
-### Skills
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br>
-
-### GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ALRayed446&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALRayed446&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
-</div>
-
-<br><br>
+<p align="center">
+  Learning to understand problems from first principles and using code to explore mathematical and scientific ideas.
+</p>
 
 ---
 
-<div align="center">
-  <p>
-    <b>আল রায়েদ</b><br>
-    ইন্টারমিডিয়েট ২য় বর্ষের বিজ্ঞান বিভাগের শিক্ষার্থী
-  </p>
-</div>
+## About Me
+
+I'm an Intermediate 2nd Year science student in Bangladesh. My long-term goal is to pursue theoretical physics and scientific research, building strong foundations in mathematics, physics, and computation along the way.
+
+I use programming as a practical tool for problem-solving: writing small utilities, exploring data, visualising mathematical relationships, and eventually simulating physical systems. I'm still learning, so I aim to represent my experience honestly and let the work in my repositories speak for itself.
+
+## Current Focus
+
+- **Physics & Mathematics:** conceptual understanding, derivations, and problem-solving.
+- **Python:** programming fundamentals, object-oriented programming, and scientific computing.
+- **C:** strengthening programming fundamentals and understanding how programs work.
+- **Tools:** Git, GitHub, and Linux.
+
+## Tools & Technologies
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-0d0e12?style=flat-square&logo=python&logoColor=7aa2ff" />
+  <img alt="C" src="https://img.shields.io/badge/C-0d0e12?style=flat-square&logo=c&logoColor=7aa2ff" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-0d0e12?style=flat-square&logo=numpy&logoColor=7aa2ff" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-0d0e12?style=flat-square&logo=pandas&logoColor=7aa2ff" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0d0e12?style=flat-square&logo=plotly&logoColor=7aa2ff" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-0d0e12?style=flat-square&logo=git&logoColor=7aa2ff" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=7aa2ff" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0d0e12?style=flat-square&logo=linux&logoColor=7aa2ff" />
+</p>
+
+*My experience varies by tool; these are technologies I'm learning and using, not a claim of expert-level proficiency.*
+
+## Selected Project
+
+### [Encrypted Chat](https://github.com/ALRayed446/encrypted_chat)
+An experimental project exploring browser-side encryption and real-time data with Firebase.
+
+**Status:** Prototype / learning project. It should not be used for sensitive communications without a thorough security review and testing.
+
+## How I Work
+
+- Clarify the problem and expected result before building.
+- Prefer readable, maintainable code over unnecessary complexity.
+- Include setup and usage instructions so others can reproduce the result.
+- Test relevant cases and document known limitations.
+- Communicate progress and blockers honestly.
+
+For now, I'm best suited to small, clearly scoped Python tasks that match my demonstrated skills. I will be transparent about what I can deliver and what still needs learning or review.
+
+## Long-Term Direction
+
+I'm working toward the intersection of theoretical physics, mathematics, and scientific computing. I want to build projects that make ideas testable, results reproducible, and complex concepts easier to explore.
+
+<p align="center"><em>Understand the problem. Build the solution. Verify the result.</em></p>
+
+<p align="center">
+  <strong>আল রায়েদ</strong><br />
+  ইন্টারমিডিয়েট ২য় বর্ষ · বিজ্ঞান বিভাগ
+</p>
